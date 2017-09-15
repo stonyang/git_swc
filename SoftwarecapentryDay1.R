@@ -1,6 +1,7 @@
 Friday Sept 15th, 2017
 ##Author: Stanley Onyango#
 
+library(ggplot2)
 1 + 300
 1+
   3 + 5 * 2
