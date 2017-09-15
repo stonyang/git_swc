@@ -16,6 +16,9 @@ here you see the new add
 1 == 1
 ?all
 x <- 1/40
+
+
+the second addition 
 log(x)
 x <- 100
 y <- x+1
