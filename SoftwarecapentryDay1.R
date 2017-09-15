@@ -9,6 +9,9 @@ library(ggplot2)
 2/10000
 #
 log10(23)
+
+
+here you see the new add
 ?log
 1 == 1
 ?all
