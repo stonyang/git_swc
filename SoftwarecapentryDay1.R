@@ -9,7 +9,7 @@ library(ggplot2)
 2/10000
 #
 log10(23)
-32444+23489
+32444+234894578
 
 here you see the new add
 ?log
