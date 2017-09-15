@@ -1,3 +1,4 @@
+Friday Sept 15th, 2017
 ##Author: Stanley Onyango#
 
 1 + 300
